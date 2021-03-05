@@ -5,4 +5,3 @@ Piemēram, jaunietis grib uz atvaļinājumu iznomāt jaudīgu spēļu datoru, š
 
 Summa, ir salīdzinoši neliela, (lētāk nekā pirkt veikalā uzreiz, nav birokrātijas ar atgriešanu).
 Mantas būtu drošībā, jo lietotājam ir interaktīvs līgums, kas atlīdzina bojājumu gadījumā īpašniekam, kā arī dati par lietotājiem.
-dasasddsasdagit puis
